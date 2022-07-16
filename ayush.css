@@ -1,0 +1,27 @@
+header{
+    background-color: aquamarine;
+}
+a{
+    color:goldenrod;
+}
+figure{
+    background-color: blanchedalmond;
+}
+#desc{
+    color:darkmagenta;
+}
+#skills{
+    color:maroon;
+    background-color: yellow;
+}
+#skillsdesc{
+    background-color:blue;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#iframedesc{
+    background-color: greenyellow;
+}
+footer{
+    background-color: cyan;
+}
